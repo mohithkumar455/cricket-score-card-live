@@ -1,1 +1,1 @@
-# cricket-score-card-live
+Displaying batsman scores (runs, balls faced, fours, sixes). Displaying bowler statistics (overs, wickets, runs conceded, economy). Showing the current over's progress (balls bowled, runs scored). Team scores and wickets fallen. Extras (wides, no-balls, leg byes, byes).
